@@ -8,13 +8,18 @@ Mauricio Gabriel Gutierrez Garcia - 32266601
 
 ## Instruções
 instalar git e gcc
-Clonar o repositório :
-`https://github.com/rodmironiuc/Pthreads-parte2`
+
+Clonar o repositório :`https://github.com/rodmironiuc/Pthreads-parte2`
+
 Compilar os arquivos : 
-`gcc -pthread -o (novoArquivoExecutavel) pi.c`
-`gcc -pthread -o (novoArquivoExecutavel) piMutex.c`
+`gcc -pthread pi.c -o (novoArquivoExecutavel) `
+`gcc -pthread piMutex.c -o (novoArquivoExecutavel) `
+
 Executar os arquivo criados :
 `./(novoArquivoExecutavel)`
+
+##Execução
+![image](https://github.com/rodmironiuc/Pthreads-parte2/assets/142501084/fb695368-3970-4610-a5c9-75b479d4c9cf)
 
 
 ## Explicação
