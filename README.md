@@ -18,7 +18,7 @@ Compilar os arquivos :
 Executar os arquivo criados :
 `./(novoArquivoExecutavel)`
 
-##Execução
+## Execução
 ![image](https://github.com/rodmironiuc/Pthreads-parte2/assets/142501084/fb695368-3970-4610-a5c9-75b479d4c9cf)
 
 
